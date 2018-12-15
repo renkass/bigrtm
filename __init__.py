@@ -1,0 +1,2 @@
+def algoritms():
+    return None
